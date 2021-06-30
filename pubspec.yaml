@@ -1,7 +1,7 @@
 name: opacity_to_hex
 description: Flutter plugin to convert percent of opacityt to equal hex value.
 version: 0.0.1
-homepage: a
+homepage: https://github.com/P-B1101/opacity_to_hex
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
